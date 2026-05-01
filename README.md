@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou a Luana 👋
 
-<!--
-**luana-mh/luana-mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e entusiasta de tecnologia  
+📊 Focada em Análise de Dados e Business Intelligence  
+🚀 Em constante evolução, transformando dados em decisões  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 📊 Interesse em análise de dados, indicadores e visualização
+- 👩🏼‍⚕️ Experiência na área de Qualidade em Saúde
+- 📈 Buscando evolução contínua em ferramentas de dados
+- 🎯 Objetivo: atuar com Data Analytics e gerar impacto com dados
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python | SQL  
+- **Análise de dados:** Excel | Power BI  
+- **Ambiente de desenvolvimento:** VS Code | Google Colab  
+- **Versionamento:** Git & GitHub
+- **Outros:** Pacote Office | Ferramentas Google 
+
+---
+
+## 📂 Projetos em destaque
+
+🧠 **Estudos em Análise de Dados**  
+→ Exercícios práticos com limpeza, tratamento e visualização de dados  
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: www.linkedin.com/in/luana-majolo-haas
+- 📧 Email: hmluana@gmail.com
+
+---
+
+## ✨ Diferencial
+
+- Capacidade analítica voltada para geração de insights
+- Experiência na área da Saúde
+- Perfil organizado, curioso e orientado a aprendizado contínuo  
+
+---
+
+⭐ Obrigada por visitar meu perfil!

@@ -32,13 +32,6 @@
 
 ---
 
-## 📫 Contato
-
-- 💼 LinkedIn: www.linkedin.com/in/luana-majolo-haas
-- 📧 Email: hmluana@gmail.com
-
----
-
 ## ✨ Diferencial
 
 - Capacidade analítica voltada para geração de insights
